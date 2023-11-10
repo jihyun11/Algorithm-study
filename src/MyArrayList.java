@@ -38,7 +38,7 @@ public class MyArrayList<T> implements List<T> {
         mal.add(3);
         System.out.println(Arrays.toString(mal.toArray()) + " size = " + mal.size);
 
-        mal.remove(new Integer(2));
+        mal.remove(new Integer(2)); //int인지 integer인지??
         System.out.println(Arrays.toString(mal.toArray()) + " size = " + mal.size);
     }
 
@@ -131,7 +131,7 @@ public class MyArrayList<T> implements List<T> {
      * Handles the special case that the target is null.
      *
      * @param target
-     * @param object
+     * @param element
      */
     private boolean equals(Object target, Object element) {
         if (target == null) {
