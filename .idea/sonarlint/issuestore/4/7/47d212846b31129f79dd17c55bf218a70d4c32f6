@@ -4,8 +4,8 @@ java:S2293#"YReplace the type specification in this constructor call with the d
 7
 java:S1220""Move this file to a named package.8ãÈšÀ»1
 G	java:S106'"+Replace this use of System.out by a logger.(şØÖ¾8øÈšÀ»1
-C
-java:S2129)"!Remove this "Integer" constructor(ü²µùÿÿÿÿ8úÈšÀ»1
-j
-java:S5738)"HRemove this call to a deprecated method, it has been marked for removal.(ü²µùÿÿÿÿ8úÈšÀ»1
+>
+java:S2129)"!Remove this "Integer" constructor(¥—‚Ó8úÈšÀ»1
+e
+java:S5738)"HRemove this call to a deprecated method, it has been marked for removal.(¥—‚Ó8úÈšÀ»1
 G	java:S106*"+Replace this use of System.out by a logger.(şØÖ¾8úÈšÀ»1
